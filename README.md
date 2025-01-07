@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! 🌟 I’m Vaishnavi, an Information Technology student based in Pune.  
+Heyyyyy......I’m Vaishnavi, an Information Technology student based in Pune.  
 Passionate about solving problems, creating innovative tech solutions, and bringing ideas to life.  
 **Fun Fact:** I’m a tech enthusiast with a soft spot for biology! 🧬
 
