@@ -12,7 +12,7 @@ Passionate about solving problems, creating innovative tech solutions, and bring
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mish_ti1224) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-patil08) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-patil07) 
 
 # 💻 Tech Stack & Proficiencies:
 ### 📦 Tech Badges
