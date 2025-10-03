@@ -3,7 +3,7 @@ Heyyyyy......I’m Vaishnavi, an Information Technology student based in Pune.
 Passionate about solving problems, creating innovative tech solutions, and bringing ideas to life.  
 **Fun Fact:** I’m a tech enthusiast with a soft spot for biology! 🧬
 
-🔗 **Portfolio:** [vaishnavi-patil-ybq9pv8.gamma.site](https://vaishnavi-patil-ybq9pv8.gamma.site)
+
 
 👁‍🗨 **Profile Visitors:** ![Profile views](https://komarev.com/ghpvc/?username=vaish-navi12&label=Profile%20views&color=0e75b6&style=flat)
 
